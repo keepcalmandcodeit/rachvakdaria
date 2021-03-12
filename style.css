@@ -1,0 +1,19 @@
+body {
+    background-color: #f1d3f1;
+   color:palevioletred;
+}
+h1 {
+    text-align: center; }
+body {
+    text-align: center;
+    font-size: 20px;
+}
+a {
+    border: 2px solid pink;
+    text-decoration:none;
+    background-color: rgb(250, 62, 93);
+    border-radius: 15px;
+    padding: 5px;
+    color:rgb(158, 0, 0);
+
+}
